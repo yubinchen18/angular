@@ -1,0 +1,30 @@
+{
+  "name": "bower.json",
+  "homepage": "https://github.com/yubinchen18/Lilopel",
+  "authors": [
+    "yubinchen18 <yubinchen18@gmail.com>"
+  ],
+  "description": "Angular project",
+  "main": "",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.8",
+    "angular": "~1.4.8",
+    "angular-bootstrap": "~1.1.0",
+    "angular-cookies": "~1.4.8"
+  }
+}
